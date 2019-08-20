@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-Licht",
+  "version": "0.1.0",
+  "description": "Cordova Licht Plugin",
+  "cordova": {
+    "id": "cordova-plugin-Licht",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "Licht",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "michel broeker",
+  "license": "Apache 2.0"
+}
